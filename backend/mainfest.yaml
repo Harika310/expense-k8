@@ -34,7 +34,7 @@ spec:
         image: harika402/backend:v1
         envFrom:
         - congifMapRef:
-          name: backend
+            name: backend
 
 
 
